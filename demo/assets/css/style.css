@@ -1,0 +1,15 @@
+.bg-hero-section {
+  background: url("../images/bg.jpg") no-repeat;
+}
+
+.hero-slider .tns-nav {
+  position: absolute;
+  bottom: 12px;
+  margin: auto;
+  left: 0;
+  right: 0;
+}
+
+.hero-slider #tns1 > .tns-item {
+	padding: 0;
+}
